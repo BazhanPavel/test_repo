@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE myportfolio PUBLIC "part1" "BazhanP_part2.dtd">
+
+<myportfolio>
+	<mycompetencies>
+		<competency in="HTML" value="good" />
+		<competency in="CSS" value="worse, but not bad" />
+		<competency in="JavaScript" value="good" />
+		<competency in="PHP" value="good" />
+		<competency in="SQL" value="a little" />
+	</mycompetencies>
+</myportfolio>
